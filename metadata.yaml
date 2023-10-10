@@ -1,0 +1,35 @@
+_repo: Malmedy-und-die-preussische-Wallonie-Skizzen-und-Studien_71803
+_version: 0.0.1
+alternative_title: 'Malmedy und die preussische Wallonie :  Skizzen und Studien'
+creator:
+  author:
+    agent_name: Kellen, Tony
+    aliases:
+    - Kellen, T. (Tony)
+    - Kellen, Anton
+    birthdate: 1869
+    deathdate: 1948
+    gutenberg_agent_id: '56405'
+    url: http://www.gutenberg.org/2009/agents/56405
+description: ''
+gutenberg_issued: '2023-10-04'
+identifiers:
+  gutenberg: '71803'
+language: de
+pgterms:marc904: https://hdl.handle.net/2027/hvd.hnpdq7
+pgterms:marc905: 20200504203221kellen
+pgterms:marc906: '1897'
+production_note: Jens Sadowski, Richard Scheibel, Reiner Ruf, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive)
+publication_note: '  $aEssen (Ruhr) :$bFredebeul & Koenen, $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Malmédy (Belgium)'
+- !lcsh 'Wallonia (Belgium)'
+- !lcc 'DH'
+- GITenberg
+title: 'Malmedy und die preußische Wallonie : $b Skizzen und Studien'
+url: http://www.gutenberg.org/ebooks/71803

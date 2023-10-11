@@ -1,6 +1,9 @@
 _repo: Malmedy-und-die-preussische-Wallonie-Skizzen-und-Studien_71803
 _version: 0.1.0
 alternative_title: 'Malmedy und die preussische Wallonie :  Skizzen und Studien'
+covers:
+- cover_type: archival
+  image_path: 71803-h/images/cover.jpg
 creator:
   author:
     agent_name: Kellen, Tony
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '56405'
     url: http://www.gutenberg.org/2009/agents/56405
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71803#Malmedy-und-die-preussische-Wallonie-Skizzen-und-Studien
 gutenberg_issued: '2023-10-04'
 identifiers:
   gutenberg: '71803'
